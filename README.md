@@ -7,7 +7,7 @@
 - [LinkedIn](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/) -->
 
 
-# ![] Hello, my name is Harre Ayma
+#  Hello, my name is Harre Ayma
 ### Mathematician & Computer Scientist & Electronic Engineer 
 
 <!--![https://github.com/hard747](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)-->
