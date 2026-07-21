@@ -1,178 +1,119 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**hard747/hard747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<!--I help developers reach their goachs with my training and mentoring
-### Where to find me
-- [LinkedIn](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/) -->
+# Harre Bams Ayma Aranda
 
+### Mathematician · Data Scientist · AI Research
 
-#  Hello, my name is Harre Ayma
-### Mathematician & Computer Scientist & Electronic Engineer 
+MSc in Computer Science — Universidade de São Paulo (USP) · BSc in Mathematics — Universidad Nacional Mayor de San Marcos (UNMSM) · Electronic Engineering studies — Universidad Nacional de Ingeniería (UNI)
 
-<!--![https://github.com/hard747](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harre__ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/)
+[![Email](https://img.shields.io/badge/Email-harre717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harre717@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40harre717-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harre717)
 
-<!--[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)-->
-[![Twitter Follow](https://img.shields.io/twitter/follow/harry717?style=social)](https://twitter.com/harre717)
-![GitHub Followers](https://img.shields.io/github/followers/hard747?style=social)
+</div>
 
-<!--I'm a professional software engineer for more than twelve years.
+I build end-to-end Machine Learning and Data Science systems — from SQL and
+exploratory analysis, through model training and evaluation, to production
+APIs, MLOps pipelines and BI dashboards. I care about results that are
+honestly measured, not just impressive-looking.
 
-In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
-Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
+## 🚀 Featured Projects
 
-In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.-->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Skills:
-<!--[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>-->
-<!--[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()-->
-<!--[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()-->
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
-</br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-</br>
-<!--[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()-->
+### 📉 [Customer Churn Prediction](https://github.com/hard747/customer-churn-prediction)
+End-to-end churn analysis: SQL diagnostics, EDA, Logistic
+Regression/Random Forest/XGBoost compared with cross-validation,
+retention-campaign business-impact simulation in \$, risk scores, and
+two dashboards (Power BI + a self-contained interactive HTML page).
 
-<!--[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()-->
+`Python` `SQL` `Pandas` `Scikit-Learn` `XGBoost` `Power BI`
 
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-And more...
+</td>
+<td width="50%" valign="top">
 
-## Find me at:
+### 🧩 [Customer Segmentation ML](https://github.com/hard747/customer-segmentation-ml)
+Unsupervised customer segmentation (PCA + K-Means) on real purchasing
+behavior data, with a rigorous elbow-method + silhouette-score
+selection for *k*, and business recommendations per segment.
 
-<!--[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-</br>-->
-<!--[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harre_ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/harre-ayma-aranda-a71a12236/)
-[![Twitter](https://img.shields.io/badge/Twitter-@harre717-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/harre717)
-<!--[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)-->
+`Python` `Pandas` `Scikit-Learn` `PCA` `K-Means` `Matplotlib` `Seaborn`
 
-<!--## App developer roadmaps:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)-->
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!--## The community "Code Challenge" projects:
+### 📊 [Business Intelligence Dashboard](https://github.com/hard747/business-intelligence-dashboard)
+Executive dashboards for commercial and financial performance:
+revenue, margin, profit, ROI and growth KPIs, built on a SQL analysis
+layer over real sales data, modeled and visualized in Power BI.
 
-Challenges index repository
+`Power BI` `SQL` `Power Query` `Power Pivot`
 
-[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Public%20code%20challenge%20repository&style=social)](https://github.com/mouredev/Code-Challenges)-->
+</td>
+<td width="50%" valign="top">
 
-<!--![https://mouredev.com/discord](https://github.com/mouredev/mouredev/blob/master/mouredev_weekly_challenge.png)-->
+### 🫁 [Pneumonia Detection Platform](https://github.com/hard747/jhm-pneumonia-cnn)
+Deep Learning + MLOps end-to-end: CNN in PyTorch for pneumonia
+detection from chest X-rays, FastAPI inference API, model registry and
+audit trail, real observability (Grafana Cloud), full CI/CD and cloud
+deploy (Render + Vercel).
 
-<!--### Weekly
+`Python` `PyTorch` `FastAPI` `Docker` `GitHub Actions` `Grafana`
 
-[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Public%20Swift/iOS%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Public%20Kotlin/Android%20challenge%20repository&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Small weekly programming challenges to improve our skills (mainly using [Swift](https://github.com/apple/swift) and [Kotlin](https://github.com/JetBrains/kotlin)). Every **Monday** a new challenge is added in the repositories and last week's challenge is resolved on GitHub and Twitch.
+### 🤖 [NLP MLOps Classifier](https://github.com/hard747/nlp-mlops-classifier)
+Customer-support intent classifier using Hugging Face Transformers,
+Hexagonal Architecture (Ports & Adapters), async FastAPI inference,
+CUDA-accelerated fine-tuning, and full CI/CD to production.
 
-### Monthly
+`Python` `PyTorch` `Transformers` `FastAPI` `PostgreSQL` `Docker`
 
-Monthly challenges to create small Apps based on a few requirements. A new challenge every **first Monday** of the month.
+</td>
+<td width="50%" valign="top">
 
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Public%20App%20challenge%20repository&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+### 👁️ [USP Research — Computer Vision & HCI](https://github.com/hard747/Pesquisa-USP)
+Research code from my MSc at USP: eye tracking, RGB-D cameras
+(Intel RealSense, Kinect), pupil segmentation and gaze estimation for
+Human-Computer Interaction.
 
-[![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)-->
+`Python` `C++` `OpenCV` `Computer Vision`
 
-<!--## The ⏳Twitimer community project:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
-
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
-
-Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).-->
-
-<!--If you want to join our community, learn App coding, and help the continuity of the project, you can find us at:
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)-->
-<!--</br>-->
-<!--[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)-->
-
-<!--## Some YouTube videos:
-
-<table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
+</td>
+</tr>
 </table>
-</table>-->
 
+## 🛠️ Skills
 
-## Contact & support:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1C6EA4?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<!--[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>-->
-[![Email](https://img.shields.io/badge/harre717@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:harre717@gmail.com)
-<!--</br>-->
-<!--[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)-->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/hard747?style=for-the-badge&color=blue&logo=github&logoColor=white&label=Followers)
+
+📫 Reach me at [harre717@gmail.com](mailto:harre717@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/)
+
+</div>
