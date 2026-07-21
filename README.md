@@ -6,9 +6,9 @@
 
 MSc in Computer Science — Universidade de São Paulo (USP) · BSc in Mathematics — Universidad Nacional Mayor de San Marcos (UNMSM) · Electronic Engineering studies — Universidad Nacional de Ingeniería (UNI)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harre__ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harre__bams__ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-bams-ayma-aranda-a71a12236/)
 [![Email](https://img.shields.io/badge/Email-harre717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harre717@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40harre717-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harre717)
+[![Twitter](https://img.shields.io/badge/Twitter-%40harry717-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harry717)
 
 </div>
 
@@ -114,6 +114,6 @@ Human-Computer Interaction.
 
 ![GitHub followers](https://img.shields.io/github/followers/hard747?style=for-the-badge&color=blue&logo=github&logoColor=white&label=Followers)
 
-📫 Reach me at [harre717@gmail.com](mailto:harre717@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harre-ayma-aranda-a71a12236/)
+📫 Reach me at [harre717@gmail.com](mailto:harre717@gmail.com) or [LinkedIn](https://www.linkedin.com/in/harre-bams-ayma-aranda-a71a12236/)
 
 </div>
