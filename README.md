@@ -8,7 +8,7 @@ MSc in Computer Science — Universidade de São Paulo (USP) · BSc in Mathemati
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harre__bams__ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-bams-ayma-aranda-a71a12236/)
 [![Email](https://img.shields.io/badge/Email-harre717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harre717@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40harre717-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harre717)
+[![X](https://img.shields.io/badge/X-%40harry717-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harry717)
 
 </div>
 
@@ -100,6 +100,8 @@ Human-Computer Interaction.
 ![XGBoost](https://img.shields.io/badge/XGBoost-1C6EA4?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
