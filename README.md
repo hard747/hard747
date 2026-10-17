@@ -9,6 +9,7 @@ MSc in Computer Science — Universidade de São Paulo (USP) · BSc in Mathemati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harre__bams__ayma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harre-bams-ayma-aranda-a71a12236/)
 [![Email](https://img.shields.io/badge/Email-harre717%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harre717@gmail.com)
 [![X](https://img.shields.io/badge/X-%40harry717-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harry717)
+[![X](https://img.shields.io/badge/X-%40harre717-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harre717)
 
 </div>
 
